@@ -2,6 +2,11 @@
 title: Introduction to NLP
 ---
 
+## What is Natural Language processing
+The application of computational techniques to the analysis and synthesis of natural language and speech is called Natural Language Processing.
+
+
+
 ## Outline
 * Motivation
 * Use cases
